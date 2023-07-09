@@ -1,0 +1,39 @@
+.banner1{
+background-image: url(banner/banner3.png);
+background-size: contain;
+background-repeat: no-repeat;
+}
+.title1{
+color:white;
+text-align: right;
+font-family: Work Sans;
+font-size: 65px;
+font-weight: 700;
+/* display: flex; */
+/* width: 525px; */
+padding: 150px 180px 24px 700px;
+margin-bottom: 20px;
+}
+.title2{
+color: white;
+text-align: right;
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 50;
+line-height: normal;
+padding: 10px 180px 230px 750px;
+}
+*{
+    margin: 0;
+}
+.button_p{
+    border-radius: 5px;
+    background-color:white;
+    border: 0;
+    font-size: 20px;
+    font-family: 700;
+    color:blue;
+    padding: 15px 30px;
+    font-weight: 600;
+};
